@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "hw1_footprint") (type "KiCad") (uri "/home/sunshine/coding/school/microarch/overture-pcb/hw1_footprint.pretty") (options "") (descr ""))
+)
