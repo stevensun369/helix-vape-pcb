@@ -12,8 +12,11 @@ The power stage is based on TI's **PMP20410** reference design, re-implemented a
 
 ## Schematics
 
-- **Power & analog front-end:** [`images/helix_vape.svg`](images/helix_vape.svg)
-- **MCU & digital:** [`images/mcu.svg`](images/mcu.svg)
+| Power & analog front-end | MCU & digital |
+|--------------------------|---------------|
+| [![Power schematic](images/helix_vape.svg)](images/helix_vape.svg) | [![MCU schematic](images/mcu.svg)](images/mcu.svg) |
+
+> Click either schematic to open the full-size SVG.
 
 ## How It Works
 
